@@ -3,9 +3,9 @@
 
 I am also the founder of Loading Devs, a company that offers:
 
-🔗 Bridging Gaps for Global Enterprises 🇨🇦🌎
-💼 Affordable Remote Work Solutions
-🚀 Web, Mobile, Cloud, AI, IT Services, and Product Development
+🔗 Bridging Gaps for Global Enterprises 🇨🇦🌎  <br>
+💼 Affordable Remote Work Solutions <br>
+🚀 Web, Mobile, Cloud, AI, IT Services, and Product Development <br>
 
 Loading Devs also owns the following sub start-ups:
 - [GPTScrapy](https://www.gptscrapy.com): A cutting-edge web scraping tool powered by AI.
