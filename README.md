@@ -1,4 +1,5 @@
 ### Hi there 👋
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Medmakrini&show_icons=true)  
 
 <!--
 **Medmakrini/Medmakrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
