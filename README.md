@@ -1,17 +1,23 @@
-### Hi there 👋
+### Hi there 👋, I'm Med Makrini
+### Ensam Engineering Student | AI and Data Science Specialist | Full-Stack Developer | Project-Driven Innovator
+
+I am also the founder of Loading Devs, a company that offers:
+
+🔗 Bridging Gaps for Global Enterprises 🇨🇦🌎
+💼 Affordable Remote Work Solutions
+🚀 Web, Mobile, Cloud, AI, IT Services, and Product Development
+
+Loading Devs also owns the following sub start-ups:
+- [GPTScrapy](https://www.gptscrapy.com): A cutting-edge web scraping tool powered by AI.
+- [Furniyar](https://www.furniyar.com): An AR/VR furniture simulation mobile marketplace app.
+
+Feel free to explore these projects and reach out to me for any inquiries or collaborations.
+
+[<img src='https://cdn3.iconfinder.com/data/icons/inficons/512/github.png' alt='GitHub' height='40'>](https://github.com/Medmakrini)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/medmakrini/)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Medmakrini&show_icons=true)  
 
-<!--
-**Medmakrini/Medmakrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub metrics](https://metrics.lecoq.io/Medmakrini)  
 
-Here are some ideas to get you started:
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Medmakrini)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
