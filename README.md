@@ -15,7 +15,4 @@ Feel free to explore these projects and reach out to me for any inquiries or col
 
 [<img src='https://cdn3.iconfinder.com/data/icons/inficons/512/github.png' alt='GitHub' height='40'>](https://github.com/Medmakrini)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/medmakrini/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Medmakrini&show_icons=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Medmakrini)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Medmakrini&show_icons=true)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Medmakrini) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Medmakrini&layout=compact)](https://github.com/Medmakrini/github-readme-stats)
