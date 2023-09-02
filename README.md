@@ -17,7 +17,5 @@ Feel free to explore these projects and reach out to me for any inquiries or col
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Medmakrini&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/Medmakrini)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Medmakrini)
 
