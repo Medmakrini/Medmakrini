@@ -1,15 +1,11 @@
 ### Hi there 👋, I'm Med Makrini
 ### Ensam Engineering Student | AI and Data Science Specialist | Full-Stack Developer | Project-Driven Innovator
 
-I am also the founder of Loading Devs, a company that offers:
+I am also the founder of Omafitec.com , a company that offers:
 
 🔗 Bridging Gaps for Global Enterprises 🇨🇦🌎  <br>
 💼 Affordable Remote Work Solutions <br>
 🚀 Web, Mobile, Cloud, AI, IT Services, and Product Development <br>
-
-Loading Devs also owns the following sub start-ups:
-- [GPTScrapy](https://www.gptscrapy.com): A cutting-edge web scraping tool powered by AI.
-- [Furniyar](https://www.furniyar.com): An AR/VR furniture simulation mobile marketplace app.
 
 Feel free to explore these projects and reach out to me for any inquiries or collaborations.
 
